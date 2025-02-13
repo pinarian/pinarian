@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Pinarian Elni Endrasaneni 👋  
+💼 PT. Perkebunan Nusantara IV Regional III  
+📍 Pekanbaru  
+🕰️ 16:20 (UTC +07:00)  
+📷 [Instagram](https://instagram.com/niniiii_xyz)  
+🔗 [LinkedIn](https://linkedin.com/in/pinarian-elni-endrasaneni-17a896215)  
 
-<!--
-**pinarian/pinarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm passionate about software development and always eager to learn new technologies.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pinarian&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinarian&layout=compact&theme=radical)  
+
+## 🏆 GitHub Achievements  
+![Achievements](https://github-profile-trophy.vercel.app/?username=pinarian&theme=onedark)  
