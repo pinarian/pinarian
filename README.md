@@ -18,7 +18,7 @@ I'm passionate about software development and always eager to learn new technolo
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)  
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pinarian&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinarian&layout=compact&theme=radical)  
 
 ## 🏆 GitHub Achievements  
